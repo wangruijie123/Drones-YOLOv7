@@ -1,0 +1,7 @@
+train: datasets/train.txt 
+val: datasets/val.txt
+test: datasets/test.txt
+
+nc: 4
+
+names: ['nest','insulator','fzc_xs','defect']
